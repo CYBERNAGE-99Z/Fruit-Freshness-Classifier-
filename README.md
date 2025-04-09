@@ -1,6 +1,6 @@
 # 🍎 Fruit Freshness Classifier using VGG16
 
-This project is part of the **NVIDIA Deep Learning Institute (DLI) program**, where the objective was to build a deep learning model that classifies fruits into six categories based on freshness:
+This project focuses on building a deep learning model that classifies fruits into six categories based on their type and freshness using image data.
 
 - Fresh Apples
 - Fresh Oranges
@@ -73,12 +73,6 @@ The goal was to achieve an accuracy of **at least 92%** on the validation set in
 |----------------|-----------|
 | Validation Loss| 2.7867    |
 | Validation Accuracy | **93.31%** ✅ |
-
----
-
-## 📜 Certificate
-
-This project was submitted and verified as part of the **NVIDIA Deep Learning Institute’s Computer Vision Certificate Track**, where the criteria required surpassing **92% accuracy** on a custom fruit dataset.
 
 ---
 
