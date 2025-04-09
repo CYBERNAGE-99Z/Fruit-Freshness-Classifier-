@@ -11,7 +11,7 @@ This project focuses on building a deep learning model that classifies fruits in
 
 <img src="images/fruits.png" alt="Sample Fruits" width="600"/>
 
-The goal was to achieve an accuracy of **at least 92%** on the validation set in order to pass the assignment and receive the certificate — and I’m proud to share that the final model achieved:
+The goal was to develop a highly accurate image classification model, aiming for at least 92% validation accuracy — and I'm excited to share that the final model achieved:
 
 > ✅ **Validation Accuracy**: `93.31%`  
 > ✅ **Validation Loss**: `2.7867`
@@ -75,7 +75,3 @@ The goal was to achieve an accuracy of **at least 92%** on the validation set in
 | Validation Accuracy | **93.31%** ✅ |
 
 ---
-
-## 📂 Folder Structure
-
-
